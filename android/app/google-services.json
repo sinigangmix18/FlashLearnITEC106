@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060366987251",
+    "project_id": "flashlearnitec",
+    "storage_bucket": "flashlearnitec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060366987251:android:56cd7e4c43ebf3d347ec86",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAppfg8rYwX2Q1UqoFW5j_ZRmleaxfxZ-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
